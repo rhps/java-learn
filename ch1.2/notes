@@ -1,0 +1,21 @@
+Library methods
+
+Integer.parseInt()
+Double.parseDouble()
+
+double abs(double a)
+double min(double a, double b)
+double max(double a, double b)
+double sin(double theta)
+double cos(double theta)
+double tan(double theta)
+
+double exp(double a)
+double log(double a)
+double pow(double a, double b)
+
+log round(double a)
+double random()
+double sqrt(double a)
+double E
+doubleP
